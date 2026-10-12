@@ -7,7 +7,7 @@
   <a href="https://github.com/openai/codex"><img src="https://img.shields.io/badge/runtime-Codex%20CLI-7c3aed.svg" alt="Runtime: Codex CLI"></a>
   <a href="https://github.com/astral-sh/uv"><img src="https://img.shields.io/badge/package%20manager-uv-000000.svg" alt="Package manager: uv"></a>
   <a href="https://github.com/astral-sh/ruff"><img src="https://img.shields.io/badge/code%20style-ruff-000000.svg" alt="Code style: ruff"></a>
-  <a href="https://github.com/AndreRatzenberger/tendril"><img src="https://img.shields.io/badge/tests-74%20passed-brightgreen.svg" alt="Tests"></a>
+  <a href="https://github.com/a-ratz/tendril"><img src="https://img.shields.io/badge/tests-74%20passed-brightgreen.svg" alt="Tests"></a>
 </p>
 
 <p align="center">
